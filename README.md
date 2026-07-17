@@ -1,14 +1,32 @@
-🚀 PlacementPro
+# PlacementPro
 
-PlacementPro is a comprehensive web-based platform designed to help students prepare for technical recruitment drives. It features dedicated modules for aptitude, coding, and company-specific preparation for major IT firms like TCS, Infosys, and Wipro.✨ Key FeaturesCompany-Specific Prep: Tailored resources for TCS, Infosys, and Wipro.Skill Modules: Dedicated sections for Aptitude and Coding practice.Interview Hub: A curated guide for interview preparation and common questions.PWA Ready: Includes a manifest.json and service-worker.js for offline capabilities and mobile installation.SEO Optimized: Built-in sitemap.xml for better visibility.
+PlacementPro is a basic frontend project created to practice and improve my web development skills. This project is not intended to be a complete real-world application.
 
-📂 Project Structure
-├── aptitude.html      # Aptitude practice questions and tips
-├── coding.html        # Coding challenges and logic building
-├── infosys.html       # Infosys specific recruitment patterns
-├── tcs.html           # TCS NQT and Ninja preparation resources
-├── wipro.html         # Wipro Elite NLTH preparation
-├── interview.html     # Interview tips and HR round prep
-├── style.css          # Main stylesheet for the platform
-├── service-worker.js  # Caching for offline access
-└── manifest.json      # Progressive Web App configuration
+## About
+
+The main purpose of this project is to:
+- Practice frontend development.
+- Improve UI/UX design skills.
+- Learn responsive layouts.
+- Experiment with modern web technologies and components.
+
+## Note
+
+This project was built purely for learning and testing my frontend skills. It may not include production-level architecture, complete functionality, advanced security, or real-world workflows.
+
+Some features are placeholders or simplified implementations created for educational purposes.
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React / Next.js
+
+## Purpose
+
+This project represents my learning journey in frontend development. As I continue learning, I plan to improve the design, functionality, and overall user experience.
+
+---
+
+**Disclaimer:** This is a practice project developed for learning and skill enhancement. It should not be considered a production-ready or commercial application.
